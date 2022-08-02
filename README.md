@@ -1,4 +1,6 @@
 # products-guide
+### 概要
+今まで作成してきたプロダクトについてまとめたページになります。
 
 ### 主要プロダクト
 * [lectio-api](https://github.com/Shimizu1111/lectio-api)
