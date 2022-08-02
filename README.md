@@ -17,5 +17,5 @@
   * 言語はGoで、フレームワークはGinです。
   * DockerとCircleCIも使用しています
 * [tf-api-salto-theme](https://github.com/Shimizu1111/tf-api-salto-theme)
-  * IaCに対応したプロダクトです。「api-salto-theme」プロダクトのインフラをTerraform化しています。現在のTerraformの知見が一番反映されているプロダクトです。
+  * IaCに対応したプロダクトです。「[api-salto-theme](https://github.com/Shimizu1111/api-salto-theme)」プロダクトのインフラをTerraform化しています。現在のTerraformの知見が一番反映されているプロダクトです。
   * 利用ツールはTerraformです。
